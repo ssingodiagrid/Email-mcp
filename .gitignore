@@ -1,0 +1,24 @@
+# Secrets and local env
+.env
+.env.*
+.env.example
+
+# Python virtualenvs/cache
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Local app data / databases
+data/
+*.db
+*.sqlite
+*.sqlite3
+
+# OAuth / credentials artifacts
+credentials.json
+token.json
+*oauth*token*
+
+# Local IDE/tooling files that may contain secrets
+.cursor/mcp.json

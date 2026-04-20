@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "email-mcp": {
+      "type": "stdio",
+      "command": "/bin/bash",
+      "args": [
+        "/Users/ssingodia/Desktop/Chrome Extension/email-mcp/scripts/mcp_stdio.sh"
+      ]
+    }
+  }
+}

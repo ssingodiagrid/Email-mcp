@@ -1,0 +1,2 @@
+{"text": "Hi team,\n\nFollowing up on the rollout: please confirm your milestone dates by EOD Thursday. Use the shared tracker for status.\n\nThanks,\nExample", "topic": "rollout", "intent": "status", "team": "engineering"}
+{"text": "Hello,\n\nFor onboarding: complete security training first, then request access in the IT portal. Reply if anything is blocked.\n\nRegards,\nExample", "topic": "onboarding", "intent": "process", "team": "hr"}

@@ -1,0 +1,12 @@
+fastmcp>=2.3.0
+langgraph>=0.2.76
+langgraph-checkpoint-sqlite>=2.0.0
+langchain-core>=0.3.0
+pydantic>=2.0
+pydantic-settings>=2.0
+pytest>=8.0
+sqlalchemy>=2.0
+email-validator>=2.0
+google-api-python-client>=2.0
+google-auth>=2.0
+google-auth-oauthlib>=1.0
